@@ -1,6 +1,6 @@
 # Project Week
 
-### Project Week, and more importantly your portfolio, is what makes or breaks your job hunt as a developer!
+### Project Week, and more importantly your portfolio, is one major thing that can make or break your job hunt as a developer!
 
 -   #### Employers review your portfolio when deciding on proposing interviews!
 
